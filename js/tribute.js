@@ -1,4 +1,5 @@
 $(document).ready(function(){
-  $('ul').children().addClass('trivia-text');
-  $('.trivia-text').css("font-size", '10px');
+  $('.ul-trivia').children().addClass('trivia-text');
+  $('.trivia-text').css("padding-top", '10px');
+  $('.ul-trivia').css("padding-left", '200px');
 });
