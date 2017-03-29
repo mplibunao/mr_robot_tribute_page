@@ -1,6 +1,8 @@
 # mr_robot_tribute_page
 Basic Front End Development Project 1 for Free Code Camp
 
+Visit github pages to view or test the application: https://mplibunao.github.io/mr_robot_tribute_page/
+
 I mostly used Bootsrap classes to quicky build the page and just used custom css for things like setting the padding and margin. I might use some jQuery for manipulating the classes and maybe some javascript manipulation if I feel like I finished it faster than usual.
 
 Link for the specs can be found at https://www.freecodecamp.com/challenges/build-a-tribute-page
